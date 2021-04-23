@@ -28,6 +28,9 @@ You can use this repository in following ways
 ## Guild Badge
 * 64 guild-badges
 
+## Guild Totem
+* 64 guild-totems __NEW__
+
 ## Upcoming
 * Castle Skins
 * Chests
